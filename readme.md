@@ -1,6 +1,6 @@
-# Keepalived & LVS 实现高可用负载均衡
+# Keepalived & LVS 搭建高可用的Web服务
 
-本仓库为 [Keepalived & LVS 实现高可用负载均衡](https://github.com/mylxsw/growing-up/tree/master/doc/keepalived-and-lvs.md) 一文的示例。
+本仓库为 [Keepalived & LVS 搭建高可用的Web服务](https://github.com/mylxsw/growing-up/tree/master/doc/keepalived-and-lvs.md) 一文的示例。
 
 运行本示例需要事先安装好Virtual Box和Vagrant环境。
 
